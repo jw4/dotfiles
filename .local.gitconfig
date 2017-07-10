@@ -1,0 +1,10 @@
+[core]
+  autocrlf = input
+
+[user]
+  name = John Weldon
+  email = johnweldon4@gmail.com
+
+[http "https://gopkg.in"]
+  followRedirects = true
+
