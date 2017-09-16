@@ -14,4 +14,8 @@ Videos/
 .ssh/
 ntuser.dat*
 ntuser.ini
-
+.bash_history
+.bash_logout
+.profile
+.cache/
+.sudo*
