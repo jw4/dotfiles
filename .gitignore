@@ -1,3 +1,10 @@
+.bash_history
+.bash_logout
+.cache/
+.config/
+.profile
+.ssh/
+.sudo*
 AppData/
 Contacts/
 Desktop/
@@ -11,11 +18,5 @@ Pictures/
 Saved\ Games/
 Searches/
 Videos/
-.ssh/
 ntuser.dat*
 ntuser.ini
-.bash_history
-.bash_logout
-.profile
-.cache/
-.sudo*
