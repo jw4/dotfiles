@@ -3,6 +3,7 @@
 .cache/
 .config/
 .lesshst
+.netrwhist
 .profile
 .ssh/
 .sudo*
