@@ -165,6 +165,7 @@ fi
 #
 
 export PATH="${PATH}:${HOME}/bin:$(go env GOPATH)/bin"
+export CDPATH="${CDPATH:-${HOME}}:${GOPATH//://src:/}/src"
 if command -v cleanpath > /dev/null 2>&1 ; then
   export PATH=$(cleanpath -separator ':' $PATH)
   export GOPATH=$(cleanpath -separator ':' $GOPATH)
