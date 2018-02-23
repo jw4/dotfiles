@@ -3,6 +3,7 @@
 .cache/
 .config/
 .lesshst
+.local*
 .netrwhist
 .profile
 .ssh/
