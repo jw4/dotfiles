@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+export FMT="%n%n%A%n%B%t%e%n%Y%n%X%n%n"
+
+watch -p -c -n 1 -t "date +${FMT} | figlet -skWct"
