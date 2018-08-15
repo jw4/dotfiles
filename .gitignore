@@ -5,6 +5,7 @@
 .lesshst
 .local*
 .netrwhist
+.nuget/
 .profile
 .ssh/
 .sudo*
